@@ -1,28 +1,17 @@
-# Angular specific
-/dist/
-/out-tsc/
-/tmp/
-/coverage/
-/e2e/test-output/
-/.angular/
-.angular/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-# Node modules and dependency files
-/node_modules/
-/package-lock.json
-/yarn.lock
+# Distribution / packaging
+.Python
 
-# Environment files
-/.env
+# Jupyter Notebook
+.ipynb_checkpoints
 
-# Angular CLI and build artefacts
-/.angular-cli.json
-/.ng/
+# IPython
+profile_default/
+ipython_config.py
 
-# TypeScript cache
-*.tsbuildinfo
-
-# Logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# VS Code settings
+.vscode/
