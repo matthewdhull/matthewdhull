@@ -1,0 +1,23 @@
+# Ordered list of projects to render in the README grid.
+# You can include any repos/orgs — use owner/name for repo.
+# Omit any link fields you don't want to show. Images can be URLs or repo paths.
+
+- name: ComplicitSplat
+  repo: poloclub/complicit-splat
+  teaser: https://matthewdhull.github.io/images/teasers/complicit_splat.png
+  description: Downstream models are vulnerable to blackbox attacks by 3dgs camouflages.
+  paper: https://arxiv.org/pdf/2508.11854.pdf
+
+- name: Revamp
+  repo: poloclub/revamp
+  teaser: https://matthewdhull.github.io/images/teasers/revamp.png
+  description: Automated simulations of adversarial attacks on arbitrary objects in realistic scenes.
+  paper: https://openreview.net/pdf?id=XCLrySEUBe
+  video: https://youtu.be/NA0XR0XkS1E
+
+- name: VisGrader
+  repo: poloclub/visgrader
+  teaser: https://matthewdhull.github.io/images/teasers/visgrader.png
+  description: Automatic grading for D3.js visualizations.
+  paper: https://arxiv.org/pdf/2310.12347.pdf
+  video: https://youtu.be/XnTfiAiYLNM
