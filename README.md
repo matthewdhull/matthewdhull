@@ -31,7 +31,7 @@ Please reach out if you have any questions or want to chat!
   <source media="(prefers-color-scheme: light)" srcset="./assets/icon-star-dark.svg" />
   <source media="(prefers-color-scheme: dark)" srcset="./assets/icon-star-dark.svg" />
   <img src="./assets/icon-star-dark.svg" width="18px" height="18px" />
-</picture></a>&nbsp;9</td>
+</picture></a>&nbsp;10</td>
               </tr>
             </table>
           </td>
